@@ -1,0 +1,7 @@
+# Flutter's generated platform runners are not my code; keep them out of GitHub's language stats.
+**/android/** linguist-generated
+**/ios/** linguist-generated
+**/linux/** linguist-generated
+**/macos/** linguist-generated
+**/windows/** linguist-generated
+**/web/** linguist-generated

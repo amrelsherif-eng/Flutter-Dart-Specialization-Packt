@@ -12,7 +12,7 @@
 
 <br><br>
 
-  <p><i>A comprehensive repository documenting my hands-on journey through the <b>"Flutter & Dart - Complete App Development"</b> Specialization by Packt on Coursera. This monorepo contains all the projects, source code, and study notes from mastering Dart OOP to full-stack Firebase integration.</i></p>
+  <p><i>A comprehensive repository documenting my hands-on journey through the <b>"Flutter & Dart - Complete App Development"</b> Specialization by Packt on Coursera. This repository holds the projects, source code and study notes, from Dart OOP basics to Firebase integration.</i></p>
 
 </div>
 
@@ -116,20 +116,20 @@ Covered local and cloud data storage, transforming static apps into persistent, 
 <h3 align="center">🤝 Let's Connect</h3>
 
 <p align="center">
-  Got a question about this repository, architecture, or Flutter development? Feel free to reach out!
+  Questions about this repository? Feel free to reach out.
 </p>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/amr-fathy-elsherif/">
+<a href="https://www.linkedin.com/in/amrelsherif-eng">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://dev-amr-elsherif.github.io/">
+  <a href="https://amrelsherif-eng.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:dev.amrelsherif@gmail.com">
+  <a href="mailto:amrelsherif.eng@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/dev-amr-elsherif">
+  <a href="https://github.com/amrelsherif-eng">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
@@ -139,6 +139,6 @@ Covered local and cloud data storage, transforming static apps into persistent, 
 <div align="center">
 <p><i>Developed & Engineered by</i></p>
   <h3>Amr Fathy Elsherif</h3>
-  <p>Software Engineer | Mobile & Backend Systems</p>
+  <p>Network & Cloud Infrastructure | Aspiring DevOps Engineer</p>
   <p>Alexandria, Egypt</p>
 </div>
